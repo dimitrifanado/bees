@@ -1,0 +1,11 @@
+bees_site_homepage:
+    path:     /
+    defaults: { _controller: BeesSiteBundle:Advert:index }
+
+index:
+    path:    /index
+    defaults: { _controller: BeesSiteBundle:Advert:index }
+
+methode:
+    path:    /methode
+    defaults: { _controller: BeesSiteBundle:Advert:methode }

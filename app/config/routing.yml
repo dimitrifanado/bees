@@ -1,0 +1,4 @@
+bees_site:
+    resource: "@BeesSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
